@@ -1,7 +1,6 @@
 # Artifact-Code-Decoder-Unravel-the-Secrets-of-Ancient-Symbols
 Artifact Code Decoder: Uncover ancient secrets hidden in symbols. Convert symbols to numerical values, decode the hidden message. Flexible for different sequences and mappings. Test your skills, reveal the past!
 
-Sure! Here's an example of a README file for the "The Secret Code of Ancient Artifacts" coding problem:
 
 # The Secret Code of Ancient Artifacts
 
